@@ -2,6 +2,10 @@
 
 Welcome to the Ecommerce Book Store project, a web-based application for buying and selling books. This project is meticulously crafted using PHP and powered by the Laravel framework. Whether you're a book enthusiast looking for your next read or a bookseller looking to expand your business, this application provides a user-friendly and efficient platform for all your book-related needs.
 
+
+# Ecommerce Book Store Project
+https://atozfreelancing.com/ebook_shop/public/
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
@@ -72,18 +76,13 @@ Welcome to the Ecommerce Book Store project, a web-based application for buying 
    php artisan migrate
    ```
 
-7. **Seed the database (optional)**:
-   - You can seed the database with sample data for testing purposes:
-   ```shell
-   php artisan db:seed
-   ```
 
-8. **Start the development server**:
+7. **Start the development server**:
    ```shell
    php artisan serve
    ```
 
-9. **Access the application**:
+8. **Access the application**:
    - Open your browser and navigate to `http://localhost:8000`
 
 ## Usage
