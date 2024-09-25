@@ -3,7 +3,7 @@
 Welcome to the Ecommerce Book Store project, a web-based application for buying and selling books. This project is meticulously crafted using PHP and powered by the Laravel framework. Whether you're a book enthusiast looking for your next read or a bookseller looking to expand your business, this application provides a user-friendly and efficient platform for all your book-related needs.
 
 
-# Ecommerce Book Store Project
+# Live Project Demo
 https://atozfreelancing.com/ebook_shop/public/
 
 ## Table of Contents
