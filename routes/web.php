@@ -13,8 +13,6 @@ use App\Http\Controllers\ShoppingCartController;
 use App\Http\Controllers\SubcategoryController;
 use Illuminate\Support\Facades\Route;
 
-
-
 Route::get('/', [HomeController::class, 'homepage'])->name('home');
 
 
